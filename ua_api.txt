@@ -1,1 +1,3 @@
-
+Dalvik/2.1.0 (Linux; U; Android 12; Redmi Build/QP1A.219905455) [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/205281674;FBDM/{density=2.25,width=720,height=1332};FBLC/en_GB;FBRV/0;FBCR/banglalink;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Mi A3;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 6.0; Realme Build/QP1A.251120769) [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/205281674;FBDM/{density=2.25,width=720,height=1332};FBLC/en_GB;FBRV/0;FBCR/grameenphone;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2185;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 10; Realme Build/QP1A.116469049) [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/205281674;FBDM/{density=2.25,width=720,height=1332};FBLC/en_GB;FBRV/0;FBCR/Airtel;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2193;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
