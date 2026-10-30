@@ -1,0 +1,4 @@
+[FBAN/FB4A;FBAV/689.0.0.79.559;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/497379705;FBCR/Airtel;FBMF/realme;FBBD/realme;FBDV/RMX3660;FBSV/15.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.5,width=732,height=1411};FB_FW/1;]
+[FBAN/FB4A;FBAV/220.0.0.27.106;FBBV/303176711;FBDM/{density=2.0,width=720,height=1384};FBLC/en_GB;FBRV/0;FBCR/banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.adsmanager;FBDV/SM-G360V;FBSV/6.0;FBOP/6;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/308.0.0.47.18;FBBV/402489750;FBDM/{density=2.0,width=720,height=1384};FBLC/en_AU;FBRV/0;FBCR/Telenor;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-G1750Y;FBSV/9.0;FBOP/6;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/300.0.0.27.120;FBBV/313720103;FBDM/{density=2.0,width=720,height=1384};FBLC/ru_RU;FBRV/0;FBCR/banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.mlite;FBDV/SM-A1400F;FBSV/7.0;FBOP/2;FBCA/armeabi-v7a:armeabi;]
